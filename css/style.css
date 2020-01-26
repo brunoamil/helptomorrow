@@ -6,7 +6,46 @@
 .espaco-compra-tomorrow {
     margin-top: 30px;
 }
-
+.datas-tomorrow p {
+    display: inline-block;
+    background-color: #d63a76;
+    border-radius: 10px;
+    color: #fff;
+    padding: 12px;
+    margin: 5px 5px 0 5px;
+}
 .text-small-tomorrow {
     font-size: 10px;
 }
+.link-branco {
+    color: #fff;
+}
+.link-branco:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+.btn-display-tomorrow a {
+    display: inline-block;
+    background-color: #000;
+    border-radius: 10px;
+    color: #d63a76 ;
+    padding: 10px;
+    margin: 10px 5px 10px 0;
+    font-weight: bold;
+}
+
+@media (max-width:650px) {
+    .btn-display-tomorrow a {
+        width: 100%;
+        margin: 10px 0 5px 0;
+    }
+    .datas-tomorrow p {
+        width: 100%;
+    }
+  }
+
+  /* PREÇOS DE INGRESSO */
+  .preco-ingresso {
+      color: #c13838;
+  }
