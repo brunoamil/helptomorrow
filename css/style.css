@@ -1,6 +1,5 @@
 .img-passo-tomorrow {
     width: 100%;
-    max-width: 900px;
 }
 
 .espaco-compra-tomorrow {
@@ -36,6 +35,9 @@
 }
 
 @media (max-width:650px) {
+    .img-passo-tomorrow {
+        width: 100%;
+    }
     .btn-display-tomorrow a {
         width: 100%;
         margin: 10px 0 5px 0;
