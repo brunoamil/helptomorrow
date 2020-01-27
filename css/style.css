@@ -58,6 +58,11 @@
     text-transform: uppercase;
 }
 
+.img-thegathering {
+    width: 100%;
+    max-width: 750px;
+}
+
 @media (max-width:650px) {
     .img-passo-tomorrow {
         width: 100%;
@@ -74,6 +79,9 @@
     }
     .margin-mobile {
         margin-top: 30px;
+    }
+    .img-thegathering{
+        width: 100%;
     }
   }
 
