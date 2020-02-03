@@ -2,9 +2,16 @@
     width: 100%;
     max-width: 450px;
 }
+.img-passo-personalizacao {
+    width: 100%;
+    max-width: 450px;
+}
 .img-passo-ingresso {
     width: 100%;
     max-width: 650px;
+}
+.box-personalizacao {
+    width: 200px;
 }
 
 .espaco-compra-tomorrow {
