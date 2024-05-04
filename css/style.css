@@ -114,3 +114,13 @@
   font-weight: bold;
   color: #9ba515 !important;
 }
+
+.container-pdf {
+  width: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+
+  /* border: 3px solid #d4c7c7; */
+
+  box-shadow: 4px 1px 4px 5px #d4c7c7;
+}
